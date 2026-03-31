@@ -1,3 +1,5 @@
+Edit to do NMR tensors
+
 <p align="center">
   <img src="./logo.png" width="50%" title="NequIP" alt="NequIP"/>
 </p>
